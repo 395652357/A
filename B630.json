@@ -7,6 +7,7 @@
 {"key": "teng","name": "🐧小腾","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://395652357.github.io/A/MaooXB/nongminyingshi.json"},
 {"key": "csp_AppTT","name": "🥒TT(SP)","type": 3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://395652357.github.io/A/tang.jar","ext":"110c922de7d69804467fb83d3bb664b5"}, 
+{"key":"csp_BuLei","name":"🍎布雷（SP）","type":3,"api":"csp_BuLeia","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Anime1","name": "🎾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "csp_Lezhu","name": "🐷乐猪影视(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -50,6 +51,9 @@
 
 
 ## JS系列
+{"key": "drpy_js_布雷蓝光","name": "布雷蓝光[DRPY]","type": 3,"api": "https://395652357.github.io/A/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/布雷蓝光.js"},
+{"key": "drpy_js_农民影视","name": "农民影视[DRPY]","type":3,"api":"https://395652357.github.io/A/lib/drpy.ym.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/农民影视.js"},
+{"key": "drpy_js_胖虎","name": "胖虎[DRPY]","type": 3,"api": "https://395652357.github.io/A/lib/drpy.ym.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/胖虎.js"},
 {"key": "drpy_js_完美看看","name": "完美看看[DRPY]","type": 3,"api": "https://395652357.github.io/A/lib/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/完美看看.js"},
 {"key": "drpy_js_快看","name": "快看[DRPY]","type":3,"api":"https://395652357.github.io/A/lib/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/快看.js"},
 {"key": "drpy_js_360影视","name": "360影视[DRPY]","type": 3,"api": "https://395652357.github.io/A/lib/drpy2.min.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
