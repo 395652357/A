@@ -216,18 +216,15 @@
             "type": 3,
             "url": "Web"
         },
-        {
+       {
             "name": "全部",
             "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url=",
-            "header": {
-                "User-Agent": "Mozilla/5.0"
-            }
+            "url": "https://jiexi.parses.repl.co/api.php?url="
         },
         {
             "name": "自",
             "type": 1,
-            "url": "https://parse.ikunfk.cc/parse/sign/20230117?url=",
+            "url": "http://svip.xn--9kq078cdn3a.cc/api/?key=X1k0ePfQloi7b4S37w&url=",
             "header": {
                 "User-Agent": "Mozilla/5.0"
             }
