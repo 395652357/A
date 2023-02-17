@@ -1,12 +1,11 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;59E72AACE81382DCCE86B9B73998AA7F",
+"spider":"https://395652357.github.io/A/630.jar;md5;69DD9E68B15E7EBFB70B0F21E732414C",
 "lives": [{"name": "直播","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt"}],
  
    
 "sites":[
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "teng","name": "🐧小腾","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://395652357.github.io/A/MaooXB/nongminyingshi.json"},
 {"key": "csp_AppTT","name": "🐰TT(SP)","type": 3,"api": "csp_AppTT2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA=="},
 {"key":"csp_BuLei","name":"🍎布雷（SP）","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Anime1","name": "🎾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1}, 
@@ -25,7 +24,6 @@
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"spide_Bttoo","name":"🎾2BT(SP)","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BBB","name":"🥒哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://395652357.github.io/A/MaooXB/bili.json"},
 {"key":"csp_Dy555","name":"🥒Dy555(SP)","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"🥒剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -40,11 +38,13 @@
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_SP2345","name": "💦2345（SP）","type": 3,"api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Panghu","name": "🥒胖虎","api":"csp_Panghu","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_Paper","name":"🦊小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"csp_PanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"YiSo","name":"😹易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"Push","name":"🥒推送（阿里）","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
-{"key":"Zhaozy","name":"🐺找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/tok"},
+{"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://395652357.github.io/A/MaooXB/nongminyingshi.json"},
+{"key":"csp_BBB","name":"🥒哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://395652357.github.io/A/MaooXB/bili.json"},
+{"key":"csp_Paper","name":"🦊小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/token"},
+{"key":"csp_PanSou","name":"🐱喵狸盘搜(只支持搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/token"},
+{"key":"YiSo","name":"😹易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/token"},
+{"key":"Push","name":"🥒推送（阿里）","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://ali.饭太硬.ml/token"},
+{"key":"Zhaozy","name":"🐺找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://ali.饭太硬.ml/token$$$xxooo$$$qq112233"},
 
 
 
