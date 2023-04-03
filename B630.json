@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;61BCA6E5FD49BEF5A2834109F23303A9",
+"spider":"https://395652357.github.io/A/630.jar;md5;2427ACDD749C3D413E3C9D16D4BEBCE3",
 "lives": [{"name": "直播","type": 0,"url": "https://gitea.com/395652357/B/raw/branch/main/live.txt"}],
  
    
@@ -13,6 +13,7 @@
 {"key": "csp_AppMr","name": "👻明明影视（SP)","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Lgyy","name":"🍎蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1, "ext": "https://www.lgyy.vip"},
 {"key": "csp_zxzj","name": "📗在线（SP）","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_zxzjH3","name":"📗在线H3（影视）","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
 {"key":"csp_Ysgc","name":"🎾影视工厂(SP)","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.ysgc.vip"},
 {"key": "哔滴影视","name": "🐼哔滴影视(SP)","type": 3,"api": "csp_Bdys01","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Xinsj","name":"🎾新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
