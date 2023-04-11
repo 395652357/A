@@ -33,6 +33,7 @@
 {"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_YQKAPP","name": "🎉一起看（SP）","type": 3,"api": "csp_YQKAPP","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api-tx.11ty.top"},
+{"key":"csp_MeiJu69","name":"🗽69美剧(SP)","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_WoGG","name":"👽网盘（4K）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key": "csp_fantuan","name": "🍙饭团（SP）","type": 3,"api": "csp_Fantuan","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.fantuanhd.com"},
 {"key":"csp_Nkdy","name":"🎾Nkdy(SP)","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
