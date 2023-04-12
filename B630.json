@@ -142,7 +142,7 @@
 {"key":"csp_xpath_xfeiji","name":"小小影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://395652357.github.io/A/MaooXP/xfeiji.json"},
 {"key":"csp_xpath_paopaoshipin","name":"泡泡视频(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://395652357.github.io/A/MaooXP/paopaoshipin.json"},
 {"key":"csp_xpath_rttks","name":"人人影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://395652357.github.io/A/MaooXP/rttks.json"},
-{"key":"csp_xpath_hiyszx","name":"影视在线(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://395652357.github.io/A/MaooXP/hiyszx.json"},
+{"key":"csp_xpath_hiyszx","name":"影视在线(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://395652357.github.io/A/MaooXP/hiyszx.json"}
 ],
 
 "parses":[
