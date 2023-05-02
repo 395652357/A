@@ -1,5 +1,4 @@
 ﻿  百视通(ijk),#genre#
-广东珠江,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
 CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3 8M,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
