@@ -1,11 +1,11 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5; 89FE4A02B78C136F02442851D659F1C0",
+"spider":"https://395652357.github.io/A/630.jar;md5;22BEA96778121A176132C5D1D2E92889",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
    
 "sites":[
 {"key":"csp_77","name":"👒七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dy01.bulei.cc/$$$auto$$$lye123456$$$liye2625994yeli"},
+{"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://饭太硬.ga/$$$auto$$$lye123456$$$liye2625994yeli"},
 {"key":"csp_kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"红红","name":"🌈红红（SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://bbq.1006.tk/icciu_api.php/v1.vod"},
 {"key":"csp_黄黄","name":"😎瑞克（ASP）","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
