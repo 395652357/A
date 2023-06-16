@@ -1,10 +1,9 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;5CE71CAEF727C72289254DA2925F7AF5",
+"spider":"https://395652357.github.io/A/630.jar;md5;A4C63FE74439B399CCD4EAAF4C639588",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
    
 "sites":[
-{"key":"csp_Miaobo","name":"🔥秒播2K","type":3,"api":"csp_Miaobo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"如如","name":"🏵如如（SP）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"csp_77","name":"👒七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ml/$$$auto$$$lye123456$$$liye2625994yeli"},
