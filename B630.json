@@ -10,7 +10,7 @@
 {"key":"专线","name":"🚅专线（SP）","type": 3,"api": "csp_ZhuanX","searchable": 1,"quickSearch": 1,"changeable":1,"ext": "http://cms.maoyingshi.cc/api.php/app/"},
 {"key":"奇奇","name":"🍓奇奇（SP）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
 {"key":"陌陌","name":"🍄陌陌（SP）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
-{"key":"探探","name":"🏵探探（SP)","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"vvvwvwvvwwvwvvvwvvwwvvvwwwwvvvvwvvvwwvvvwwwvvwvwvvwvvvvw.lyyytv.cn"},
+{"key":"探探","name":"🏵影探(SP)","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
 {"key":"迪迪","name":"😎迪迪(SP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"哈喽","name":"✌哈喽(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
 {"key":"彩虹","name":"🌈彩虹(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
