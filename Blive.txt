@@ -1,8 +1,8 @@
 ﻿  百视通(ijk),#genre#
 广东珠江,http://r.jdshipin.com/sE5vO
-http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
-http://113.65.177.211:4440/hls/141/index.m3u8
-http://220.231.188.200:8089/hls/29/index.m3u8
+广东珠江,http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
+广东珠江,http://113.65.177.211:4440/hls/141/index.m3u8
+广东珠江,http://220.231.188.200:8089/hls/29/index.m3u8
 CCTV1-综合,http://219.145.19.123:16045/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://219.145.19.123:16045/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://219.145.19.123:16045/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
