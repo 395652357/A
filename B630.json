@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;D5BD0B9D5AD08C17CCA5D36FEBFC463A",
+"spider":"https://395652357.github.io/A/630.jar;md5;2A8F0AE4EDC6A72841EA382A05537F73",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
    
@@ -13,7 +13,6 @@
 {"key":"探探","name":"🏵影探(SP)","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"ext":"vip.lyyytv.cn"},
 {"key":"迪迪","name":"😎迪迪(SP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"哈喽","name":"✌哈喽(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://guan.yy365.vip/api.php/app/"},
-{"key":"彩虹","name":"🌈彩虹(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://jh.dytt996.com:996/api.php/app/"},
 {"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 {"key":"Qtv","name":"🐧小腾（SP）","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"changeable":0},
 {"key":"Itv","name":"🥝爱奇（SP）","type":3,"api":"csp_Itv","quickSearch":1,"searchable":1,"filterable":1,"changeable":0},
