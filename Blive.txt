@@ -1,7 +1,7 @@
 ﻿  百视通(ijk),#genre#
+广东珠江,http://220.231.188.200:8089/hls/29/index.m3u8
 广东珠江,http://183.238.105.246:9901/tsfile/live/1056_1.m3u8?
 广东珠江,http://202304151212.iptv.z-link.cn:8800/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-广东珠江,http://220.231.188.200:8089/hls/29/index.m3u8
 广东珠江,http://r.jdshipin.com/sE5vO
 广东珠江,http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
 广东珠江,http://113.65.177.211:4440/hls/141/index.m3u8
