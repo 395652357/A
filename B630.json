@@ -1,9 +1,9 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;FF13CDD38A9C91766C2C351AEC13B3F1ED9722FF",
+"spider":"https://395652357.github.io/A/630.jar;md5;55D06EA34332E2B6D64F91138C2BD05D0E392055",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
    
-"sites":[{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":11,"ext":"https://www.czz9.com/"},
+"sites":[{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":11,"ext":"https://www.czzy88.com/"},
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_77","name":"👒七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
