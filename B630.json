@@ -1,8 +1,8 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;D65490382102D8E7D3BDBDE44CA602F5",
+"spider":"https://395652357.github.io/A/630.jar;md5;364C0F012E73A8801A69900FC25AE9C1",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
-   
+"sites":[   
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.CZZ9.com/"},
 {"key":"csp_77","name":"👒七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -28,9 +28,6 @@
 {"key":"csp_BBB","name":"🥒哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://395652357.github.io/A/MaooXB/bili.json"},
 {"key":"csp_Biliych","name":"🅱哔哔（演唱会）","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://395652357.github.io/A/MaooXB/bilibili.json"},
 {"key":"csp_WoGG","name":"👽网盘（4K）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
-
-
-
 
 ## JS系列
 {"key": "drpy_js_厂长","name": "厂长[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/厂长资源.js"},
