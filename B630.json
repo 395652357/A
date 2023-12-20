@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;3A1219034ED657F925C606543689B8CF",
+"spider":"https://395652357.github.io/A/630.jar;md5;58ADBD51A4BBED437F442E4E9A4C85C2",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
 "sites":[   
@@ -11,7 +11,6 @@
 {"key":"南瓜","name":"🎃南瓜（SP）","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"毛驴","name":"🍓毛驴（SP)","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
 {"key":"奇奇","name":"🍓奇奇（SP）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ttsp.live/api.php/app/"},
-{"key":"陌陌","name":"🍄陌陌（SP）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://wushutvcms.byzz.top/api.php/app/"},
 {"key":"迪迪","name":"😎迪迪(SP)","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"哈喽","name":"✌哈喽(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key":"csp_SP33","name":"📺360（SP）","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
