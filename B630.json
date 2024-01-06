@@ -1,12 +1,13 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;FD784008AB71D81A178564841059756D",
+"spider":"https://395652357.github.io/A/630.jar;md5;AEB168169682631C93874C9BD8A97E74",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
 "sites":[   
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy22.com/"},
+{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy66.com/"},
 {"key":"csp_77","name":"👒七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://fanty.run.goorm.site/ext/js/drpy2.min.js","ext":"https://fanty.run.goorm.site/ext/jp.js"},
+{"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
+{"key": "九六","name": "🎀九六（SP）","type":3,"api":"csp_Cs1369","playerType":2,"searchable": 1,"quickSearch":1,"changeable":1},
 {"key":"橘子","name":"🍊橘子（SP）","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
 {"key":"南瓜","name":"🎃南瓜（SP）","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"毛驴","name":"🍓毛驴（SP)","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
@@ -30,6 +31,7 @@
 ## JS系列
 {"key": "drpy_js_厂长","name": "厂长[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/厂长资源.js"},
 {"key": "drpy_js_农民影视","name": "农民影视[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/农民影视.js"},
+{"key": "drpy_js_荐片","name": "荐片[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/荐片.js"},
 {"key": "drpy_js_139影视","name": "139影视[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/139影视.js"},
 {"key": "drpy_js_快看","name": "快看[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/快看.js"},
 {"key": "drpy_js_360影视","name": "360影视[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/360影视.js"},
@@ -57,7 +59,6 @@
 {"key": "drpy_js_大师兄影视","name": "大师兄影视[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/大师兄影视.js"},
 {"key": "drpy_js_异世界动漫","name": "异世界动漫[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/异世界动漫.js"},
 {"key": "drpy_js_星辰","name": "星辰[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/星辰.js"},
-{"key": "drpy_js_荐片","name": "荐片[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/荐片.js"},
 {"key": "drpy_js_吼吼[飞]","name": "吼吼[飞][js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/吼吼[飞].js"},
 {"key": "drpy_js_四个圈影视","name": "四个圈影视[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/四个圈影视.js"},
 {"key": "drpy_js_子子影视","name": "子子影视[js]","type": 3,"api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext": "https://hjdhnx.github.io/dr_py/js/子子影视.js"},
