@@ -1,11 +1,10 @@
 央视,﻿#genre#
-广东珠江,http://183.238.105.246:9901/tsfile/live/1056_1.m3u8?
-广东珠江,http://yuming.dsmynas.com:8888/udp/239.20.0.64:3144
-广东珠江,http://yuming.dsmynas.com:8888/udp/239.20.0.63:3148
-广东珠江,http://r.jdshipin.com/sE5vO
-广东珠江,http://157.122.177.10:9901/tsfile/live/1007_1.m3u8
-广东珠江,http://113.65.177.211:4440/hls/141/index.m3u8
-广东珠江,http://220.231.188.200:8089/hls/29/index.m3u8
+广东珠江,http://[2409:8087:7001:20:1000::86]:6610/000000001000/1000000004000011655/1.m3u8?channel-
+id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503220240113215226046282
+广东珠江,http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-
+id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503720240113214942640175
+广东珠江,http://[2409:8087:7001:20:1000::84]:6610/000000001000/2000000003000000033/1.m3u8?channel-
+id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3&IASHttpSessionId=RR503820240109152105406385
 CCTV-1 综合, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 CCTV-3 综艺, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
