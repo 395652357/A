@@ -4,6 +4,10 @@
 广东珠江,http://www.namewee.xyz/gudou.php?id=gdzhujiangHD_7500
 广东珠江,http://8.217.90.28:9999/触电.php?id=gdzj
 广东珠江,http://gxdl-lhs.8866.org:85/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
+广东珠江,http://103.108.67.142:909/猎狼TV吧/PLTV/组播/广东.php?id=239.77.0.3:5146
+广东珠江,http://103.108.67.142:909/猎狼TV吧/PLTV/组播/广东.php?id=239.77.1.94:5146
+广东珠江高清,http://103.108.67.142:909/猎狼TV吧/PLTV/组播/广东.php?id=239.77.0.1:5146
+广东珠江超清,http://103.108.67.142:909/猎狼TV吧/PLTV/组播/广东.php?id=239.77.0.114:5146
 CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV-2 财经,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV-3 综艺,http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
