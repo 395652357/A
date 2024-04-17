@@ -1,12 +1,12 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;013794CDA7F4898B65B8A7F7382CC5A1",
+"spider":"https://395652357.github.io/A/630.jar;md5;C84C36278BD8BC95A63449A128074BE0",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
 "sites":[   
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys03.com/"},
+{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.cz233.com/"},
 {"key":"csp_77","name":"👒七七（SP）","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"},
+{"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"},
 {"key": "酷看","name": "💡酷看(SP)","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "原创","name": "☀原创（SP）","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "白嫖","name": "👻白飘","type": 3,"api": "csp_BaiPiao","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.baipiaoys.com:9092/"},
@@ -22,10 +22,10 @@
 {"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
+{"key": "农民","name": "🎾农民","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 {"key":"csp_BBB","name":"🥒哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://395652357.github.io/A/MaooXB/bili.json"},
 {"key":"csp_Biliych","name":"🅱哔哔（演唱会）","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://395652357.github.io/A/MaooXB/bilibili.json"},
-{"key":"csp_WoGG","name":"👽网盘（4K）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key":"csp_WoGG","name":"👽网盘（4K）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
 ## JS系列
 {"key": "drpy_js_厂长","name": "厂长[js]","type":3,"api":"https://hjdhnx.github.io/dr_py/libs/drpy2.min.js","ext":"https://hjdhnx.github.io/dr_py/js/厂长资源.js"},
