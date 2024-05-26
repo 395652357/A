@@ -11,6 +11,7 @@
 {"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
 {"key": "酷看","name": "💡酷看(SP)","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "原创","name": "☀原创（SP）","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "可可","name": "👻可可（SP）","type": 3,"api": "csp_Kekys","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"南瓜","name":"🎃南瓜（SP）","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "苹果","name": "🍎苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key":"csp_Auete","name":"🏝Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://auete.pro/"},
