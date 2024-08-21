@@ -1,13 +1,11 @@
 ﻿{
-"spider":"https://395652357.github.io/A/630.jar;md5;1F219C086D40A58A296FBC3B262E7B7D",
+"spider":"https://395652357.github.io/A/630.jar;md5;5D760B50584F03B3F71C8A6D1C17AA8E",
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
 "sites":[   
 {"key":"csp_DiDuan" ,"name":"⏮️低端影视(SP)","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://czzy.top/"},
-{"key": "糯米","name": "🍙糯米（SP）","type": 3,"api": "csp_Nmys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://gitlab.com/fantaiying/ext/-/raw/main/nmys.json"},
-{"key": "小点","name": "💥小点（SP）","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
-{"key": "热播","name": "📺热播（SP）","type": 3,"api": "csp_AppTT","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czys.pro/"},
+{"key": "热播","name": "📺热播（SP）","type": 3,"api": "csp_Appmq","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
 {"key": "酷看","name": "💡酷看(SP)","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "原创","name": "☀原创（SP）","type": 3,"api": "csp_YCyz","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
@@ -17,9 +15,7 @@
 {"key":"csp_Auete","name":"🏝Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://auete.pro/"},
 {"key":"csp_Cokemv","name":"📕Cokemv(SP)","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name": "🌟Libvio(SP)","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.libvio.pw/"},
-{"key":"csp_Xinsj","name":"🐼新视觉(SP)","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"csp_Dm84","name":"🚌动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Ying","name":"💮樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"🐾日本动漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_BBB","name":"🥒哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://395652357.github.io/A/MaooXB/bili.json"},
