@@ -3,11 +3,11 @@
 "lives": [{"name": "直播","type": 0,"url": "https://395652357.github.io/A/Blive.txt"}],
  
 "sites":[   
-{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy77.com/"},
+{"key":"csp_Czsapp","name":"📔厂长(SP)","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzyvideo.com/"},
 {"key": "文采","name": "💮文采（SP）","type":3,"api": "csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key": "苹果","name": "🍎苹果(SP)","type":3,"api": "csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"贱贱","name":"🐭荐片（SP）","type":3,"playerType":"1","api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jp.js"},
-{"key":"黑木耳","name":"树木（SP）","type":4,"api":"http://zhangqun66.com/225.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"黑木耳","name":"树木","type":4,"api":"https://spider.doube.eu.org/spider?site=HeiMuEr","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "原创","name": "☀原创","type": 3,"api": "csp_YCyz","timeout": 15,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "低端","name": "⏮️低端","type": 3,"api": "csp_Ddrk","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "可可","name": "👻可可（SP）","type":3,"api": "csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable": 1},
