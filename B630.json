@@ -11,7 +11,6 @@
 {"key": "原创","name": "☀原创","type": 3,"api": "csp_YCyz","timeout": 15,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "低端","name": "⏮️低端","type": 3,"api": "csp_Ddrk","playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "可可","name": "👻可可（SP）","type":3,"api": "csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable": 1},
-{"key":"南瓜","name":"🎃南瓜（SP）","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Auete","name":"🏝Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://auete.pro/"},
 {"key": "zxzj","name": "🍊在线（SP）","type":3,"api": "csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key": "比特","name": "🍄比特（SP）","type": 3,"api": "csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
